@@ -1,0 +1,173 @@
+{
+    "events": [
+    {
+        "media": {
+            "url": "https://drive.google.com/file/d/1mVNyr11i-qXMltcvPt5RJwEZ7ZFBPXs-/view?usp=share_link",
+            "caption": "Painted portrait of the Afro-Wampanoag Whaler and businessman Absalom Boston ",
+            "credit": "Painting of Absalom Boston circa 1835"
+        },
+        "start_date": {
+            "year": "1840"
+        },
+        "text": {
+            "headline": "Massachusetts Anti-Discrimination Petition Campaign   ",
+            "text": "<h5>Nantucket</h5><p>Wampanoags join a statewide campaign to repeal racially discriminatory laws.</p>"
+        }
+    },
+    {
+        "media": {
+            "url": "https://drive.google.com/file/d/1IBuG5DmopJjXIAt7ueBNWFpuIYB9MOiU/view?usp=share_link",
+            "caption": "Drawn portrait of William Apess circle 1831",
+            "credit": "Drawing of Wiliiam Apess 1831"
+        },
+        "start_date": {
+            "year": "1838"
+        },
+        "text": {
+            "headline": "A Strategy to End Slavery",
+            "text": "<h5></h5><p>Wampanoags join a nationwide campaign to limit the political power of slave states.</p>"
+        }
+    },
+    {
+        "media": {
+            "url": "https://drive.google.com/file/d/1kKsFaHzQ1JrrBzWHEbt6Oo6JzPSvjaP3/view?usp=share_link",
+            "caption": "Etching of the Boston Odeon circa 1833",
+            "credit": "The Boston Odeon circa 1833"
+        },
+        "start_date": {
+            "month": "01",
+            "day": "08",
+            "year": "1836"
+        },
+        "text": {
+            "headline": "Eulogy on King Philip",
+            "text": "<h5>Boston</h5><p>William Apess delivers a public rebuke of white moral hypocrisy on stage in Boston. </p>"
+        }
+    },
+    {
+        "media": {
+            "url": "",
+            "caption": "",
+            "credit": ""
+        },
+        "start_date": {
+            "month": "01",
+            "day": "01",
+            "year": "1836"
+        },
+        "end_date": {
+            "month": "01",
+            "day": "01",
+            "year": "1843"
+        },
+        "text": {
+            "headline": "Desegregation of Massachusetts Railways",
+            "text": "<h5>Nantucket and Mashpee</h5><p>State-wide campaign to desegregate Massachusetts’ railways.</p>"
+        }
+    },
+    {
+        "media": {
+            "url": "",
+            "caption": "",
+            "credit": ""
+        },
+        "text": {
+            "headline": "Mashpee “Declaration of Independence”\n",
+            "text": "<h5></h5><p></p>"
+        }
+    },
+    {
+        "media": {
+            "url": "",
+            "caption": "",
+            "credit": ""
+        },
+        "start_date": {
+            "month": "09",
+            "day": "12",
+            "year": "1854"
+        },
+        "text": {
+            "headline": "The Rescue of Randall Burton",
+            "text": "<h5>Aquinnah</h5><p>The Aquinnah rescue Randall Burton from being kidnapped back into slavery. </p>"
+        }
+    },
+    {
+        "media": {
+            "url": "",
+            "caption": "",
+            "credit": ""
+        },
+        "start_date": {
+            "month": "01",
+            "day": "01",
+            "year": "1854"
+        },
+        "text": {
+            "headline": "The Rescue of Edgard Jones",
+            "text": "<h5>Aquinnah</h5><p>The Aquinnah rescue Edgar Jones from being kidnapped back into slavery.</p>"
+        }
+    },
+    {
+        "media": {
+            "url": "",
+            "caption": "",
+            "credit": ""
+        },
+        "start_date": {
+            "month": "09",
+            "day": "17",
+            "year": "1838"
+        },
+        "end_date": {
+            "year": "1839"
+        },
+        "text": {
+            "headline": "A Haven for Frederick Douglass",
+            "text": "<h5>New Bedford1</h5><p>The Johnsons of New Bedford help one of the most influential anti-slavery activists.</p>"
+        }
+    },
+    {
+        "media": {
+            "url": "",
+            "caption": "",
+            "credit": ""
+        },
+        "start_date": {
+            "month": "02",
+            "day": "10",
+            "year": "1838"
+        },
+        "text": {
+            "headline": "An Aquinnah Petition for Temperance Laws",
+            "text": "<h5>[\"Aquinnah\"]</h5><p>The Aquinnah  petitions for laws enforcing temperance\n</p>"
+        }
+    },
+    {
+        "media": {
+            "url": "",
+            "caption": "",
+            "credit": ""
+        },
+        "text": {
+            "headline": "An Aquinnah Petition to Protect Tribal Lands",
+            "text": "<h5></h5><p></p>"
+        }
+    },
+    {
+        "media": {
+            "url": "",
+            "caption": "",
+            "credit": ""
+        },
+        "start_date": {
+            "month": "11",
+            "day": "10",
+            "year": "1833"
+        },
+        "text": {
+            "headline": "Mashpee Temperance Society",
+            "text": "<h5>['Mashpee']</h5><p>Mashpee joins the temperance movement.</p>"
+        }
+    }
+]}
