@@ -124,7 +124,7 @@
         },
         "text": {
             "headline": "A Haven for Frederick Douglass",
-            "text": "<h5>New Bedford1</h5><p>The Johnsons of New Bedford help one of the most influential anti-slavery activists.</p>"
+            "text": "<h5>New Bedford</h5><p>The Johnsons of New Bedford help one of the most influential anti-slavery activists.</p>"
         }
     },
     {
@@ -140,7 +140,7 @@
         },
         "text": {
             "headline": "An Aquinnah Petition for Temperance Laws",
-            "text": "<h5>[\"Aquinnah\"]</h5><p>The Aquinnah  petitions for laws enforcing temperance\n</p>"
+            "text": "<h5>Aquinnah</h5><p>The Aquinnah  petitions for laws enforcing temperance\n</p>"
         }
     },
     {
@@ -167,7 +167,7 @@
         },
         "text": {
             "headline": "Mashpee Temperance Society",
-            "text": "<h5>['Mashpee']</h5><p>Mashpee joins the temperance movement.</p>"
+            "text": "<h5>Mashpee</h5><p>Mashpee joins the temperance movement.</p>"
         }
     }
 ]}
